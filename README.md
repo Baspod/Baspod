@@ -6,7 +6,7 @@
 <font face="monospace" size="3">
 
 <pre style="margin: 0; padding: 15px; color: #FFFFFF; line-height: 1;">
-<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <font color="#E5C07B">./fetch_socials.sh</font>
+<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <font color="#E5C07B">./fetch_greetings.sh</font>
 
 <font color="#C678DD">■ Greetings:</font>
 <font color="#7ECE1B">cat << "EOF"</font>

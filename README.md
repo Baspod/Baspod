@@ -12,16 +12,7 @@
 👾 <font color="#7289da">**Discord:**</font> <font color="#ffffff">`your_discord_tag`</font><br>
 🐙 <font color="#ffffff">**GitHub:**</font> [<font color="#ffffff">github.com/BAS_POD</font>](https://github.com/BAS_POD)<br>
 <br>
-<font color="#FFFFFF">BAS_POD> </font><span style="animation: blink 1s infinite; color: #FFFFFF;">_</span>
-
-<style>
-@keyframes blink {
-  0% { opacity: 0; }
-  49% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 1; }
-}
-</style>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=16&vCenter=true&width=130&lines=BAS_POD%3E+_;BAS_POD%3E" alt="Blinking Cursor" />
 
 </font>
 </p>

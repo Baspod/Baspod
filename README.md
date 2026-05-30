@@ -10,6 +10,7 @@
 
 <font color="#C678DD">■ Greetings:</font>
 <font color="#7ECE1B">cat << "EOF"</font>
+  
                            ++++++----------                                    
                           +++++-+++------------------                              
                     +++++++++------------------------------                        
@@ -38,12 +39,11 @@
       #################+++##########################++++++++++++++++---------      
       +++########++++++###+++++++++++++++#######++++++++++++++++++-----------      
       ++++########+++++++++++++++++++++++++++++++++++++++++++++++------------      
-      +++#####++++++++++++++++++++++++++++++++++++++++++++++++---------------      
-                                                                                   
+      +++#####++++++++++++++++++++++++++++++++++++++++++++++++---------------                                                                                    
                                                                                    
 EOF
 
-<font color="#FFFFFF">BAS_POD> </font><sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>
+<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>
 
 </font>
 </p>

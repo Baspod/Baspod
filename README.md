@@ -8,12 +8,40 @@
 <pre style="margin: 0; padding: 10px; color: #FFFFFF; line-height: 1.2;">
 <font color="#7ECE1B">root@BAS_POD:~$</font> ./fetch_socials.sh
 
-<font color="#56B6C2">■ CONTACT_INFO</font>
-🔹 <font color="#0088cc">Telegram:</font> <a href="https://t.me/your_username" style="color:#0088cc; text-decoration:none;">t.me/your_username</a>
-👾 <font color="#7289da">Discord:</font> <font color="#ffffff">your_discord_tag</font>
-🐙 <font color="#ffffff">GitHub:</font> <a href="https://github.com/BAS_POD" style="color:#ffffff; text-decoration:none;">github.com/BAS_POD</a>
+<font color="#56B6C2">■ Greetings: </font>
+<font color="#7ECE1B">cat << "EOF"</font>
+                                                      
+                                                      
+                                                      
+                                                      
+                ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                    
+            ▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒               
+        ▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓           
+▓      ▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓         
+░▒▒▒▒▓▓▓█▓▓▓▒▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▒▒▒▒▒▓▓▓▓        
+░░░▒▓▓▓██▓▓▓▓█▒▓▓▓▓▓▓▒▒▒▒▒▒▒▒░▒▒▒▓▓▓▓▓▓▓▒▒▒▓▓▓▓       
+▒▒▒▓▓▓▓██▓▓▓▓▓█▓▓▓▓▓▓▓▒▒▒▒▒▒░░░▒▒▓▓▓▓▓▓▓▒▒▒▓▓▓▓▓      
+▒▒▓▓▓▓██▓▒░▒▒▒▓▓▓▓▓▓▒▒▒░▒▒▒▒▒░░▒▒▒▒▓▓▓▒▒▒▒░▒▒▓▓▓      
+▒▓▓▓▓▓█▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▓▓      
+▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒▒▒▒▒░░░▒      
+▓▓▓▓▓▓▒▒▒░▒░░░▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒░░░░░░░░░▒▒     
+▓▓▓▓▓▓▒▒▒▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒     
+▓▓▓▓▓▓▒▒░░░▒▒▒▒▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░▒▒    
+▓▓▓▓▓▓▒░░▒▒▒▒▒▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓▒▒▒▒▒▒▒▒▒▒░░░░▒▒▒   
+▓▓▓▓▓▒░░▒▒▒▒▒▒▓▒▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒░░░░ ▓▓▒  
+▓▓███▓▒▒▒▒▓▒▒▒▓▓▓▒▓▓▓▓██████████▓▒▒▒▒▒▒▒░░▒▒▒▒░▒    ▒▒
+██████▓▒▓▓██▒▒▒▓▓▓▓▓▓███▓█████▓▓▓▒▒▒▒▒▒▒▒▓▓▒▒▒▒       
+███████▓▓▓▒▓▓▓▒▒▓▓▓▓▓▓▓▓█████▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒       
+██████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████▓▓▒▓▓▓▓▓▓▒▒▒▒▒▒▓▒▒▒▒     
+████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒    
+██████████▓██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒  
+██████████▓▓▓▓▓▓▓▓████████████████▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░
+▓▓▓█████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+EOF
 
-<font color="#FFFFFF">BAS_POD> </font><sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>
+<font color="#FFFFFF">BAS_POD> </font><sub><img src="[https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20](https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20)" alt="Cursor" align="absbottom" /></sub></pre>
 
 </font>
 </p>

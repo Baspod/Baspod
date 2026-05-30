@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=root@BAS_POD:~%24+cat+about.txt;Welcome+to+my+profile...;Connecting+to+the+matrix..." alt="Typing SVG" />
+</h1>
 
-<!--
-**Baspod/Baspod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-ONLINE-brightgreen?style=terminal" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-blue?style=terminal&logo=arch-linux" />
+  <img src="https://img.shields.io/badge/Shell-zsh-orange?style=terminal" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌──(bash_pod㉿terminal)-[~]
+└─$ cat core_info.md

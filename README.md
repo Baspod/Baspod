@@ -13,7 +13,7 @@
 👾 <font color="#7289da">Discord:</font> <font color="#ffffff">your_discord_tag</font>
 🐙 <font color="#ffffff">GitHub:</font> <a href="https://github.com/BAS_POD" style="color:#ffffff; text-decoration:none;">github.com/BAS_POD</a>
 
-<font color="#FFFFFF">BAS_POD> </font><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&lines=_;%20" alt="Cursor" align="absbottom" style="margin-left: -15px;"/></pre>
+<font color="#FFFFFF">BAS_POD> </font><sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>
 
 </font>
 </p>

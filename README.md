@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 <table bgcolor="#0D1117" width="100%">
 <tr>
@@ -11,7 +11,6 @@ root@BAS_POD:~$ cat terminal_profile.sh
 [SYSTEM INITIALIZATION...]
 [CONNECTING TO THE MATRIX...]
 
-```
 
 ### ■ USER PROFILE
 

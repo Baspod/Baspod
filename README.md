@@ -12,7 +12,7 @@
 👾 <font color="#7289da">**Discord:**</font> <font color="#ffffff">`your_discord_tag`</font><br>
 🐙 <font color="#ffffff">**GitHub:**</font> [<font color="#ffffff">github.com/BAS_POD</font>](https://github.com/BAS_POD)<br>
 <br>
-<font color="#FFFFFF">BAS_POD> </font><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=16&width=20&height=24&lines=_;%20" alt="Blinking Cursor" style="vertical-align: -4px;" />
+<font color="#FFFFFF">BAS_POD> </font><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&size=16&width=20&height=24&lines=_;%20" alt="Blinking Cursor" style="vertical-align: -10px;" />
 
 </font>
 </p>

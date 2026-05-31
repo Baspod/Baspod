@@ -53,12 +53,13 @@
           XXXXXXX$$$XXXxxxXXXXXxxxxxxxxxxxx+xxxx+xxxxxxxxxxxXxxxxxxxxxxx++++++++++++++;;;;;;;;;;;;:::  
                                                                                                                                                                                                                                    
 EOF
-
-<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>
-
-</font>
-</p>
+<span style="color: #777;">root@BAS_POD</span><span style="color: #777;">:</span><span style="color: #56B6C2;">~</span><span style="color: #777;">$</span> <span style="display: inline-block; width: 10px; height: 18px; background-color: currentColor; animation: blink 1s step-end infinite;"></span>
+</pre>
 </td>
 </tr>
 </table>
 </div>
+
+<style>
+@keyframes blink { 50% { opacity: 0; } }
+</style>

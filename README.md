@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="Terminal.gif" alt="Baspod Terminal" width="600px"/>
+  <img src="Terminal.gif" alt="Baspod Terminal" width="1920"/>
 </div>

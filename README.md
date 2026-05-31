@@ -10,57 +10,48 @@
 
 <font color="#C678DD">■ Greetings:</font>
 <font color="#7ECE1B">cat << "EOF"</font>
+                                                                                                                                                                                                                          
+                                                                                                                     
                                                                                                                       
-                                                                                                                    
-                                                                                                                      
-                                          xxxxxxxxxx++++++++++++++++                                                  
-                                     xxxxxxxxxxxx+++++++++++;;+;;;;;;;;;;;;                                           
-                                $Xxxxxxxx+++xxxxx+++++++++;+++;;;;;;;;;;;;;;;;;+                                      
-                           Xxxxxxxxxxxxxxxxx++++++;+;+;++++++;;;;;;;;;;;;;;;;;;;;;;+                                  
-                        XXXxxxxxxxxxxxxxxxx++;;+++;;;;+++++++;;;;;;;;;;;;;;;;;;;;;;;++xxx                             
-                      xX$XXXXXxxxxxxxx++xxxx+++;;;;;;+;;+++;;;;;;;;:;;;+xx+x++;;;;;;;+xxxxxX                          
-      $             XxX$$$$XXXxxxxxxxxxxxxxx++;;;;;;;;;;;;++;;;;;;;;:;++xxxxx++;;;;;+++xxxxxxx                        
-      +xXXxxx     XxXX$$$$$XXXxxxxxxxxXXXxxxx++;;;;;;;;;;;;;;+;;;;;;;+xxxxxxxx+;+;+;;;+xxxXXXxx                       
-      ;;;;+xxx+;xXXXX$$$$$$$XxxxxxXXXX$XX$XxXXxx++;:;;;;;;;;;;;;;;;;+xxxxxxxxxxxxxxx+;;+xxXXXXxx                      
-      :;++;++;+XXXXX$&&$$$$Xxx$$$&$XxXXX$$$$$Xxxx++;;;;;;;;;;;;;;;;+xxxxxXXXX$$$Xxxxx++;+xX$$$XXx                     
-      +;::;:;xXXXX$$$$&$$$$XX$$$$$xxxXX;xxX$$$XXxxxx+;;;++;++;;:::;xxxxXXX$$$x+x+x$$Xxxx+xX$$$$Xxx                    
-      xxx+;;+$$$XX$$$&&$$$$xx$Xxx$$$$$$$$x$$$$XXxxx+;;;;;;;;;;:::;;+xxxxx$x$Xxxxxxxxxxx++xxX$$$XxxX                   
-      xxxxx$$$$$$X$$$&&$$XxxxxxXxx$$$$$$$$$xxXXxxx+;;;;;;;;;;;::::;;+xxxxx$$$$$$$$Xxxxxx+;+x$$XXXxx                   
-      xxxx$$$$$$$$$$&&$Xx+;;;;+xxxxXXXXXXXXXXxxxx+;:::;;++;;;;;;::;;++xxxxxxxX$XXxxx+;;::::;+xXXXxxx                  
-      +++x$$$$$$$$$$&$Xxx;;;+++++xxxxxxxxxxxxxxx;;;;++++;;;+++;;;;:;;;;;;;xxxxxxx+;;;;;;::::;;xXxxxx                  
-      xxx$$$$$$$$$$$$xxx;;;;;;;+xxxxxxxxxxxxxxxx+++x+xx+++++xx++;;;;;;;++;;;;;++++x+;;;;;::::::;xXxx                  
-      xx$$$$$$$$$$$$xxx+;;;+++xxxxx;;+;;++xxxxxxxx+xx+xxx+++++++++;;;;++++++;;;;;;+++;;::;;::::::;xx                  
-      $$$$$$$$$$$$xxx++;;;;;;+x;;::;;+xxxxxxxxxxxxxxxxxxxxxxxxxx++++;;++++++;;::::::;;;;;;;;:::::::;                  
-      X$$$$$$X$X$xxxx+;;;;;;;;;:::;;+xxxxxxxxxxxxxxxxxxxxxxxxxxxx+++++;++x++++;;;:::::::;:;:::::::;;;                 
-      X$$$$$XXX$Xxxx+;;:;;;;;:;;;;x++xxxxxxxxxxxxxxxxxxxxxxxxxxxxx++++;;++++++++;;:::::::::::::::::;;                 
-      $$$$$$X$$$$Xxx;;;;;;;;;;++++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++xxxx+++++++++++;;;;;;;:::::::::::;+                
-      $$$$$XXX$$$xxx;;;;;;;;;;++xxxxxxxxxxxxxxxxxxxxxxxxxXXXXXxxxxxxxxxxxxxxx+++++++;;;;;:::::::::::;;                
-      $$$$XXX$$$$xx+;;;:;;;++xxxxxxxxxxxxxxxxxxxxxxxXXX$$$X$X$$XXxxxxxxxxxxxx+++++x++;++;;;;:::::::::++               
-      $$$$XXX$$$Xxx;;;;;;;;++xxxxxxXxxxxxxxxxxxxxXXXXXXXXXXXXXXXxxxxxxxxxxxx++++++x+;;;++;;;;::::::::+x+              
-      $$$XXX$$$Xxx+;;;;;;+++;++xxxxxxxxxxxxxxxxx$$XxxxXxxXxxxXxxxxxxxxxxxxx+x+xxx+x+++;;;;;;::::::::;xxx+x            
-      $$XXXX$$xxxx+;;;;+++++x++xxxxxxxxxxxxxxxX$$XXXxxXXXXxxXXxxxxxxxxxxxxxx++x++xx+;++;;;;;;:::::::: $Xx+x           
-      $XxXX$$$$xx+;;;+++++x+;;+xxxXxxxxxxxxXXXXx$$X$$$$$$$$$$$$$$$$$$xxxxx++xxxxxxx+;;;;x+;+;;::::::    $Xx+          
-      XXX$$&$$$$$x+;+xxx+++x+;;+xxx$X$XxxxXXXXXX$$$&&&&&&$$$$$$$&&&$$$$x+;;+xxxx+xx;;;;;;;;;+;;;:::        xx+        
-      X$&&&&&&&$$$x++xxxxX$$$x;xxxxxxxxxxxxxX$$$$$&&&&&&&&&$&$$&&&&&$$Xx;;++x++xx+;;;;;+;;;;+;;;;;           Xxx      
-      &&&&&&&&&$$$$X+xxXX$$$$$x+++xxxXxxxxxxxXX$$$$$$$X$$$$$&$$$$XXxX$X+;;;;+xx++;;+xxxxxxxx+;;;;                     
-      &&&&&&&&$$$$$$$XxxXXX$$Xx+xxxxXX$xxxxXxxxXX$$$$&&$&$$$$$&$$$$$Xxx++;++++;;;;;xxXXXxxx+;+;+x                     
-      &&&&&&&&$$$$$$$$$xxxx+xX$$XxxxxxXxxXxxXXXXXXX$$$$$$&$$$$$$$$xxxx++;++++;;+xxxxxxx;;;+++;xx++                    
-      &&&&&&&&&&&&&$$&&$xXXXxxxXXXXXxXXxxXXXXxxxX$$$$$$$$$$$$$$$$xxxxxxx+xx+xxxxxxxxxx+++xx++xxxx+;;                  
-      &&&&&&&&&&&&$$&$$&&$XXXxXXxxX$$$$$$$$$$$$XxxX$$&&&$$$&$$&$$$xxxxxxxxxxXxxxxxxxx+xxxxxxxxxxxxxx+;                
-      &&&&&&&&&&&&$$$&&&&&&$$XXXXXXXXXX$$$$$$$$XXxxxxxxxxxXXxxx++xxXXXXXxxxXxxxxxxxxxxxxxxxxxxxxxxxxxx+x              
-      &&&&&&&&&&&&$$$$$&&&&&&&$$X$$$XXXX$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxx+              
-      &&&&&&&&&&$$&&$$$$$$$&&&$&&$$$$$$$$$$$$$$$$$$$$$X$$$$$$$XXXXXXXXXXXXXxxXXXXXxxxxxxxxx+x+++++xxxx+++;            
-      &&&&&&&&&&&&$&&&&$$$$$$$$$$$$$$&&$&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXxxxxxxxxx++xx++++++++;;;;          
-      &$$&&&&$&&&&&$&$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&$$&$$$$$$$$$$$$$$&$$$$$$$$XXXxxxxxxxxxxxxxxxxx++;;+;;;;;;;;       
-      $$$$$$$$$$&&&&&$$$$$$$$$$$$X$$$$$$$$$$$$$$$$$&$&&&&&&&&&&$$$$$$$$$$$$XXXXxxxxxxxxxxxxxxxxxxx++;;;;;;;;;;;;      
-      $$$$$$$$$&&&&&$$XXXxXXX$$$$$$XXXXX$$$$$$$$$$XX$$$$$$$$$$$$$$$$$$$$XXXXXXXxxxxxxxxxxxxxxxx++++++++;;;;;:::;      
-      $$$XX$XX$$&&&$$$$XXxxxXXXX$$$$$XXxxXXXXXXX$XX$XXXXXXXX$X$$$X$XXXXXXxxxxxxxxxxxxxxxxxxxxx++++++++;;;;;;:;:;      
-      XXxX$$$$$&&&$$$$$$$XXxxxxxXXXXXXXxxxxXXxxXXXXXXXxXxxXxxxXXX$XxXXxxxxxxxxxxxxxxxxxxxxxx++++++;++;;;;;:::::;      
-      XX$$$$$$$$$$$$X$$$$XXXXxxxxxxxxxxxxxxxxxxxxxXXXXXXXxxxXXX$XXXxXxxxxxxxxxxxxxxxxxxxxx++++++;;;;;;;;::;;;;;;      
-      XXxXX$$$$&$$XXxxxxxxXXXxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxxxxxxxxxxxxxxxxxxxxxx++++++;;;;;;;;;;;;;:;;;;      
-                                                                                                                      
-                                                                                                                      
-                                                                                                                      
+                                          x++++++++++++;;;;;;;;;;;;;;                                                 
+                                     Xx+++++;;++++;;;;;;;;;;;;;;;;;;;;;;;;;;                                          
+                               XXxxxx+++++;++++;;;;;;;;;;;;;;;;;;;;;:::::::;;;;;+                                     
+                           XXxxxxxxx+++++++++;;;;;;;;;;;;;;;;;;;;::;;;::;;;;;;;;;;;+++                                
+                         xXXXXXxxx+x++++;++++;;;;;;;;;;;;;;;;;;;;::::;;;;;;;;;;;;;;;++xxx                             
+          XX          XXxXXXXXXXxx++++++++++++;;;;;::;:;;;;;;;;;::::;;;+x+++;;;;;;;;;+xxxx+                           
+          ;+xx+;;;  XXxXXXXXXXXX++x++++xXXXxxx++;;;;:;;;;;;;;;;::;;;;+x++++++;;;;;;;;++xXXXxX                         
+          +;;;;;++;XXXXX$$$XXXXxxXX$$$$$$XXXXXXx++;;::;::;;;;;:::;:;++xxxXxxxx+++;;;;;+xXXXXxx                        
+          ::::::;+XXXXX$$$$$XXxXX$$X:xXXx++XXXXXx+++;;;;;;;;;:::::;++xXXXX$$XXX$XXx++;;+XXXXXxx                       
+          ;++;::xXXXXX$$$$$XXX+XXxX$$XXXXXXXXXXXxxx+;::;;;;;;:::::;++xx+XxXX+++++xXx++;+XXXXXXxX                      
+          +++++XXXXXXX$$$$$Xx+++xX++X$$$$$$XxxXXx+;;;::;;;;:;::..::;+xx+xXXXXXXXX+++x+;;;xXXXXxx                      
+          +;++$XXXXXX$$$$XX+::;;;;++xxxXXXXXxxx++;;::::;;;;;;;:::::;;++++xxxXXx++;;:::::::+XXXxxx                     
+          +;;X$XXXXXX$$$Xx+:;;;;;;;+++++xx+++++++;;;;;;;;;;;+;;;;:::;;;;;;;+++++;;;;:::::.::xXxxx                     
+          +xXXXXXXXXX$$X++;:;;;;;+++++++;;;+++++++;;;;++;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::....:+xx                     
+          XXXX$XXXXXXX++;;::;;;+++;::::;++;+++++++;++++++++++++;;;;;;;;;;;;;;:..:;;;;;;;::..::::;                     
+          XXX$XXXXXXX+++;;::;;:::::::;++++++++++++++++++++x+xx+++;;;;;;;+;;;;;::....:::::::...:::;                    
+          XXX$XXXXXXx++;;::;:::::::;++++++++++++++++++xxxxxxxx++++;;;;;;;;;;;;;::::::.:::::....::;                    
+          XXXXXXXXXXX++;;;;;:;;;;+++++++++++++++++++++++xxxXxxx++;;+++++++;;;;;;;;:.:::::.:.::..:;;                   
+          XXXXXXXXXXx+;;:::;;;;;+++++++xx++++xxxx+++++xxXXXXXXXXx+++++++++++;;;;;;;;;;::::::::...:;;                  
+          XXXXXXXXX$x+;:::;;;;;++++xxXxx+++++xx+xxxXXXXXXXXXXXXXXXxx+++++++;;;;;+;;;;;;;::::::..::;;+                 
+          $XXXXXXXXxx;::;;;;;;;;;+xx+xx++++++xx++XXXXXxxxXxxxXxxx++++++x++;;;++++;;;;;;;::::::::::x+;+                
+          XXXXXX$X+++;:::;;;;;;;;+xxx++x+++xxxxX$XXXxxxXXXxxXxxxxx+++x+++++;++;++;;;;:;;::::.::.:: XX+;               
+          XXxXX$$$X++;:;;;+;;+;;;++xxx+++++xXXXxxXXXX$$$$XX$$$$$$$$$Xx++;+;+++;++;;;:;+;;;;::::::     x;;             
+          XXX$$$$$$$X+;;+++;+x+;;;++xXXX+++xXXXXX$$$$$$$$$$$$$$$$$$$$X+;;;;+;+++;;:::::;;;;;::::        x++           
+          $$$$$$$$$$Xx+;++XX$$$+;;++xxxx++xxxxXX$$$$$$$$$$$$$$$XXXXXxX+::;;;++++;;:;+xxx+;;;;;;                       
+          $$$$$$$$$$$$$X+xXXX$$XX;:;+xXXX+xxxxxXXX$$$$$$$$$$$$$$$$$$X+;;;;;;;;;:;+++Xxx+;;;;;;                        
+          $&$$$$$$$$$$XXXXx++++X$$x++++xXxxxxXXXXXXX$$$$$$$$$$$$$X+++;;;;;;;:;+++++++;;:;;;;++;                       
+          $$$$$&$$$$$$$$$$XxXXxx+XXXXXXXXXXXXXXxXXXXXXXXXXX$$$XXXXXx+++;++++xxx+x+++;;;++;+x+++;;;                    
+          $$$$$$$$$$$$$$$$$$$XXXXXxXXXXXXXXXXXXXx++xX$$$$$$$$$$XX+;+xxxXXxxXxx+++++++++++xXx+++++;;;                  
+          $$$$$$$$$$$$$$$$$$$$$$XXXXXXXXXXXXXXXXXXXXXxx++++++++xXXXXXXXXXxxx+++++++++++++++++++++++;+                 
+          $$$$$$$$$$$$$$$$$$$$$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx+xxxxxxxxxx+++;;;;;;+++++;;;                
+          $$$$$$$$$$$$$$$$$$XXX$$$$$$$$$$$$$$XXXXXXXXXXXX$XXXXXXXXXXXXXXXXXXXXXXXXxx++++++;;;+;;;;;;;;:;              
+          $$$$$$$$$$$$$$$$$$$XXXXX$$X$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$XXXXXxxxxx+++++++++++;;;;;;;::::;           
+          X$XXXXXX$$$$$$$XXXXX$$XXXXXXXX$$$$X$$$$$$$$$$$$$$$$$$$$$$$XXXXXXXXXxxxxxxxx++x++++++;;;;;;;;::::::          
+          xXxXX$$$$$$$$$XXXxxXXXXXX$$XxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxx++++++++++++;;;;;;;;;:::::::          
+          XXXXX$$$$$$$$$XXXXxxxxxXXXXXXXXxXXxxXxXXXXXXxxXxXXXXXXXXXXxXXxxx+xxxxx+++++++++++;;;;;;;;;:;::::::          
+          xXXXXXxX$$$XXXXXXXXXXxxxx+xxxxx+xxxxXXxxxXXXXXxxXxxxXXXXxxxxxx+++++xx+x+++++++;;;;;;;;;;;;::::::::          
+          XXXXXXX$$$XXXxxxXXXXXxxxxxxxxxxxx+xxxx+xxxxxxxxxxxXxxxxxxxxxxx++++++++++++++;;;;;;;;;;;;:::  
+                                                                                                                                                                                                                                   
 EOF
 
 <font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <sub><img src="https://readme-typing-svg.demolab.com?font=monospace&color=FFFFFF&size=16&width=20&height=22&pause=500&lines=_;%20" alt="Cursor" align="absbottom" /></sub></pre>

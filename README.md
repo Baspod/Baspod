@@ -7,10 +7,10 @@
 
 <font color="#C678DD">■ Greetings:</font>
 <font color="#7ECE1B">cat << "EOF"</font>
-[ВСТАВЬ СЮДА СВОЙ АРТ]
+[ТВОЙ АРТ]
 EOF
 
-<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <span style="color: inherit; font-size: 12px;">▎</span></pre>
+<font color="#7ECE1B">root@BAS_POD</font><font color="#FFFFFF">:</font><font color="#56B6C2">~</font><font color="#FFFFFF">$</font> <img src="https://readme-typing-svg.demolab.com?font=monospace&color=56B6C2&size=12&pause=500&width=20&height=15&lines=▎; " alt="Cursor" align="absbottom" /></pre>
 </td>
 </tr>
 </table>
